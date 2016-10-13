@@ -1,7 +1,7 @@
 body {
   font-family: arial;
 }
-ul {
+.menu {
   float: right;
 }
 .jumbotron p {
@@ -22,4 +22,28 @@ ul {
 }
 h3 {
   padding-bottom: 3px;
+}
+.bullets {
+  text-align: right;
+}
+.panel-success {
+  background-color: #F5FEF9;
+}
+.panel-success > .panel-heading {
+  background-color: #CDF2E0;
+  color: black;
+}
+img {
+  margin: 10px 10px 0px 10px;
+}
+.space {
+  float: left;
+}
+.person {
+  float: right;
+}
+figcaption {
+  text-align: center;
+  font-size: 13px;
+  padding: 0px;
 }
