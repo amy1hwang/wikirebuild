@@ -1,0 +1,25 @@
+body {
+  font-family: arial;
+}
+ul {
+  float: right;
+}
+.jumbotron p {
+  font-size: 15px;
+}
+.container .jumbotron {
+  border-radius: 0px;
+  margin: 50px;
+  border: 1px solid lightgray;
+  padding-bottom: 100px;
+  padding-top: 0px;
+  background-color: #F9F9F9
+}
+.title {
+  text-align: center;
+  float: left;
+  line-height: 5px;
+}
+h3 {
+  padding-bottom: 3px;
+}
